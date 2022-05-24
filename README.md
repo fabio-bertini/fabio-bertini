@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fabio-bertini
-- 👀 I’m interested in robots
+- 👋 Hi, I’m @fabio-bertini.
+- 👀 I’m interested in robots and other funny things.
 - 🌱 I’m currently learning MachineLearning, RNN.
 
 <!---
